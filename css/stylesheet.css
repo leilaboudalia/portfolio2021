@@ -65,6 +65,8 @@ footer{
 .nav .current {
   background-color: black;
   color: #ffffff;
+  text-transform: uppercase;
+  border: 5px solid  #7c726b;
 }
 
 /* working on this */
