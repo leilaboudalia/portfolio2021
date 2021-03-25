@@ -68,10 +68,10 @@ footer{
 }
 
 /* working on this */
-/* .nav a:hover{
+.nav li:hover{
     background-color: black;
     color: #ffffff;
-  } */
+  }
 
 
 .skip a{
