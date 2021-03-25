@@ -3,7 +3,7 @@ body{
 	margin:1%;
 	padding:1%;
 	font-size:100%;
-    font-family: "Antic Didone";
+  font-family: "Antic Didone";
 }
 
 h1{
@@ -133,13 +133,14 @@ footer{
   }
 
 /* Same color links */
-a{
-    color: #aa6c3c;
+a {
+    color: #7c726b;
+    /* font-weight: bold; */
     text-decoration: none;
 }
 
 
-
+/* experimenting with larger screen size */
 @media all and (min-width: 880px){
     img{
         width:100%;
